@@ -1,14 +1,14 @@
 [
     {
-        "author": "Aspette",
+        "author": "Tacktiik",
         "name": "UnityProject",
-        "keyWords": "oldUI Remake, Thèmes",
-        "version": "2.70.0",
+        "keyWords": "UnityProject, Tacktiik",
+        "version": "1.0.0",
         "dofusVersion": "2.70",
-        "description": "oldUI Remake : l'ancienne UI revisitée. (Twitter : @Aspette)",
-        "url": "https://github.com/Tacktiik/Themes/raw/master/UnityProject.zip",
-        "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/oldUI%20Remake/oldUIPreview.jpg",
-        "creationDate": "11/05/2019",
+        "description": "UnityProject",
+        "url": "https://github.com/Tacktiik/Themes/raw/main/Dofus/UnityTheme/UnityProject.zip",
+        "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/modules/block/tacticblock_default.jpg",
+        "creationDate": "01/08/2017",
         "modificationDate": "26/11/2023"
     }
 ]
