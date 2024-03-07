@@ -11,4 +11,19 @@
         "creationDate": "01/08/2017",
         "modificationDate": "26/11/2023"
     }
+],
+[
+    {
+        "author": "Tacktiik",
+        "name": "UnityProject",
+        "Keywords":"alliance,red,black",
+        "version": "1.0.0",
+        "dofusVersion": "2.70",
+        "description": "UnityProject",
+        "url": "https://github.com/Tacktiik/Themes/raw/main/Dofus/UnityTheme/UnityProjectOLD.zip",
+        "previewUrl": "https://github.com/aspette/dofus_themes/raw/master/themes/darkOpacity%20Hundred/modules/block/tacticblock_default.jpg",
+        "creationDate": "01/08/2017",
+        "modificationDate": "26/11/2023"
+    }
 ]
+
